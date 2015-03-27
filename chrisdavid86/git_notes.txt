@@ -2,3 +2,4 @@ git_notes.txt
 
 git add - Adds any changes into staging area
 git commit -m - Commits the staging area with a message
+

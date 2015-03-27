@@ -1,3 +1,5 @@
 unix_notes.txt
+
 cd - Changes directory
 ls - Lists the directory content
+
